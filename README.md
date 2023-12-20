@@ -1,4 +1,4 @@
-SniperTrackBot v1.0 by Ian Costa
+SniperTrackBot v2.0 by Ian Costa
 
 1-Quando ele detecta um robô como ele se move (e o canhão também) em direção a esse robô?
 R: o radar sempre gira independentemente, sempre registrando a posição absoluta do alvo , multiplica pela velocidade do alvo registrada e determina a angulação do canhão para efetuar o disparo, com a posição absoluta do alvo registrada, em relação a mesma o robô vira 90° para esquerda e vai a frente, caso  o alvo mude de direção, o radar irá detectar e o robô vai virar novamente 90° á esquerda e vai a frente
